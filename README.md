@@ -2,7 +2,7 @@
 
 A simple Phonebook web application 
 
-### deployed in https://api-directory-vantruongo99.herokuapp.com/
+### Deployed on https://api-directory-vantruongo99.herokuapp.com/
 
 ## Feature 
 - Search Number
@@ -10,3 +10,7 @@ A simple Phonebook web application
 
 ### Prerequisites
 _Node.JS and npm are required_
+
+## Built With
+- ReactJS - Frontend library used in the project.
+- ExpressJS - Back end web application framework for Node.js
