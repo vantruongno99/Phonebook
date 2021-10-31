@@ -2,7 +2,7 @@
 
 A simple Phonebook web application 
 
-### Deployed on https://api-directory-vantruongo99.herokuapp.com/
+### A demo is deployed on https://api-directory-vantruongo99.herokuapp.com/
 
 ## Feature 
 - Search Number
